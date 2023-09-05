@@ -1,0 +1,17 @@
+G:\c_xm\Bookshop\Bookshop\bin\Debug\Bookshop.exe.config
+G:\c_xm\Bookshop\Bookshop\bin\Debug\Bookshop.exe
+G:\c_xm\Bookshop\Bookshop\bin\Debug\Bookshop.pdb
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Properties.Resources.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.GenerateResource.cache
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.exe
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.pdb
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Splane.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Login.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Books.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Dash.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.User.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.Billing.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.signup.resources
+G:\c_xm\Bookshop\Bookshop\obj\Debug\Bookshop.glpw.resources
